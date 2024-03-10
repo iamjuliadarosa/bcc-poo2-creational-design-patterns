@@ -18,7 +18,9 @@ Permite que você agrupe um conjunto de objetos de uma mesma familia, ou relacio
 [Exemplo Código Fonte](https://replit.com/@Juliada19/poo2-dp-abstract-factory?v=1)
 ### Builder
 
-[[Código Fonte | ]]
+Permite a construção de diferentes tipos e representações de um objeto usando um mesmo processo, além de permitir que ele seja construido em etapas.
+
+[Código Fonte](https://replit.com/@Juliada19/poo2-dp-builder?v=1)
 ### Prototype
 
 [[Código Fonte | ]]
