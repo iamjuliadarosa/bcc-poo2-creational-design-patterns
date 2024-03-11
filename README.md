@@ -20,10 +20,12 @@ Permite que você agrupe um conjunto de objetos de uma mesma familia, ou relacio
 
 Permite a construção de diferentes tipos e representações de um objeto usando um mesmo processo, além de permitir que ele seja construido em etapas.
 
-[Código Fonte](https://replit.com/@Juliada19/poo2-dp-builder?v=1)
+[Exemplo Código Fonte](https://replit.com/@Juliada19/poo2-dp-builder?v=1)
 ### Prototype
 
-[[Código Fonte | ]]
+Permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+
+[Código Fonte]()
 ### Fluent Interface
 
-[[Código Fonte | ]]
+[Código Fonte]()
