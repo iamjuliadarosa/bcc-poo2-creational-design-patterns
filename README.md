@@ -28,4 +28,6 @@ Permite copiar objetos existentes sem fazer seu código ficar dependente de suas
 [Exemplo Código Fonte](https://replit.com/@Juliada19/poo2-dp-prototype?v=1)
 ### Fluent Interface
 
-[Código Fonte]()
+Permite criar objetos de uma maneira que visa fornecer código mais legível e detectável. Muitas vezes envolve encadeamento de métodos, onde cada método retorna o mesmo objeto de contexto, invocando múltiplas ações ou comandos em uma única linha de código.
+
+[Exemplo Código Fonte](https://replit.com/@Juliada19/poo2-dp-fluente-interface?v=1)
